@@ -1,6 +1,7 @@
 dataset: 'kitti'
 
-dataset_path: '/media/wangxiyang/3448ECD748EC98BE/datasets/KITTI/kitti_tracking'
+# dataset_path: '/media/wangxiyang/3448ECD748EC98BE/datasets/KITTI/kitti_tracking'
+dataset_path: '/kaggle/input/kitti-tracking/kitti_tracking'
 spilt: 'training'
 
 #------------------------ Root path define ----------------------
